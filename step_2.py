@@ -5,7 +5,7 @@ fred = f_money
 oleg = o_money
 john = j_money
 print(john + oleg - fred)
-sadfas
+
 
 
 
