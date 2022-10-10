@@ -1,3 +1,5 @@
+#вывести - сколько всего воинов
+
 ninja = 25
 samurai = 40
 house1 = ninja
