@@ -1,3 +1,5 @@
 #вывести - приветствие
+name = 'Сергей'
+surname = 'Шатилов'
 greetings = 'Привет, %s %s'
-print(greetings % ('Сергей', 'Шатилов'))
+print(greetings % (name, surname))
