@@ -20,4 +20,3 @@ t.left(90)
 t.forward(50)
 t.down()
 t.forward(100)
-
